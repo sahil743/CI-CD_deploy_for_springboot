@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: cicd-applied-to-spring-boot-java-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor: FAN JUPS TECH
+Created-By: Maven Integration for Eclipse
+
